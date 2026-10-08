@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Gerbers/")
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"

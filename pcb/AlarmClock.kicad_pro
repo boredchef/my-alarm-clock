@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "specctra_dsn": "",
       "step": "AlarmClock.step",
       "vrml": ""
@@ -661,7 +661,7 @@
         "uuid": "50e0376e-c2d3-4dd9-960b-89c3ff6f02fe"
       }
     ],
-    "used_designators": "U1,SW1-5,H1-4,#FLG1-2,BZ1,J1,#PWR1-10",
+    "used_designators": "U1,H1-4,SW1-5,J1,BZ1,#FLG1-2,#PWR1-10",
     "variants": []
   },
   "sheets": [
