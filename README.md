@@ -1,7 +1,7 @@
 # my alarm clock 
 this is an alarm clock using a pcb with an esp32, buzzer and display. the alarm clock also has an enclosure designed in Onshape. to control the alarm clock there are 4 keyswitches and a rotary encoder knob. 
 
-![3dmodel](3dmodel.png)
+![3dmodel](assets/3dmodel.png)
 
 ## challenges
 for this project, the firmware needed a lot of different variables in order to function like the current time and the alarm time, the pins for the buttons and the different states for buttons, the overall clock and substate fields like setting hours/minutes while setting time. this project really helped me understand how to manage all these by defining functions for checking buttons or checking the time. 
