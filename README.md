@@ -30,4 +30,4 @@ for this project, the firmware needed a lot of different variables in order to f
 ## more pictures
 | alarm case | exploded view | back of pcb | front of pcb | pcb design | schematic | 
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| ![case](alarm_case.png) | ![more case](exploded_view.png) | ![back of pcb](back_of_pcb.png) | ![front](front_of_pcb.png) | ![design](pcb_design.png) | ![schem](schematic.png) | 
+| ![case](assets/alarm_case.png) | ![more case](assets/exploded_view.png) | ![back of pcb](assets/back_of_pcb.png) | ![front](assets/front_of_pcb.png) | ![design](assets/pcb_design.png) | ![schem](assets/schematic.png) | 
