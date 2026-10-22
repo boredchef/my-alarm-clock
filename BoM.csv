@@ -1,7 +1,16 @@
 Item Name,Qty,Price (total) (USD),Item link,Notes
 blare kit,1,$0.00,https://blare.hackclub.com/docs/getting-started ,comes with blare
 pcb ,5,$4.00,https://jlcpcb.com/ ,shipping is ~$8 dollars
-rotary encoder,1,$2.00,,not sure where to buy
+rotary encoder,1,$2.00,https://keeb.io/products/rotary-encoder-ec11,shipping is ~13 dollars
+xiao esp 32 c3,1,$0.00,https://www.seeedstudio.com/seeed-xiao-esp32c3-p-5431.html,comes with blare kit
+mx style keyboard switches,12,$0.00,https://cdn.shopify.com/s/files/1/0565/8070/2297/files/SPEC-KS-3Y10B050NW-X1-Yellow_Switch.pdf?v=1675841028 ,comes with blare kit
+keycaps,12,$0.00,https://blare.hackclub.com/docs/getting-started,for the switches look nice
+ 2.25in TFT Screen,1,$0.00,https://blare.hackclub.com/docs/getting-started,screen!!!
+piezo buzzer,1,$0.00,https://blare.hackclub.com/docs/getting-started,make noise
+8 pin male header,1,$0.00,https://blare.hackclub.com/docs/getting-started,for pcb to connect to display
+M3x5x4 heatset inserts,8,$0.00,https://blare.hackclub.com/docs/getting-started,place to screw stuff
+M3x8mm screws,4,$0.00,https://blare.hackclub.com/docs/getting-started,comes with blare
+M3x16mm screws,4,$0.00,https://blare.hackclub.com/docs/getting-started,comes with blare
 ,,,,
 ,,,,
 ,,,,
@@ -9,13 +18,4 @@ rotary encoder,1,$2.00,,not sure where to buy
 ,,,,
 ,,,,
 ,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-Total Price (USD):,$6.00,,,
+Total Price (USD):,$27.00,,,
